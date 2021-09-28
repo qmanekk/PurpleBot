@@ -1,0 +1,2 @@
+# PurpleBot
+ Discord Bot
